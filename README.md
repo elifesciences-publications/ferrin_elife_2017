@@ -84,7 +84,7 @@ This will generate all the plots in the [figures](figures) folder.
 
 [annotations/simulations/ecoli.trna.abundance.dong1996.txt](annotations/simulations/ecoli.trna.abundance.dong1996.txt) was downloaded from [Dong et al. J. Mol. Biol. 1996](https://www.ncbi.nlm.nih.gov/pubmed/8709146), Table 2, and pasted into a text file. Gly1 and Ile2 entries were manually deleted from the table since these were not measured in this study. Sec tRNA was deleted since we are not considering this non-canonical translation. A typo for Val1 anticodon was corrected (TAG → TAC).
 
-`annotations/simulations/NC_000913.fna` and `annotations/simulations/NC_000913.gff` were downloaded from the corresponding ncbi genome assembly: ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/845/GCA_000005845.2_ASM584v2. Only symbolic links are present for these files in the repository.
+`annotations/simulations/NC_000913.fna` and `annotations/simulations/NC_000913.gff` were downloaded from the corresponding ncbi genome assembly: ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/005/845/GCA_000005845.2_ASM584v2. 
 
 ## Machine Specifications
 
@@ -104,6 +104,10 @@ g++ (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
 Copyright (C) 2013 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+# boost C++ library used in simulation code
+> dpkg -s libboost-dev | grep 'Version'
+Version: 1.54.0.1ubuntu1
 
 > python --version
 Python 2.7.6

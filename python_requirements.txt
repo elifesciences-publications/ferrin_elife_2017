@@ -1,5 +1,6 @@
 biopython==1.65
 cycler==0.10.0
+htseq=0.6.1
 ipykernel==4.5.2
 ipython==4.0.0
 ipython-genutils==0.1.0
