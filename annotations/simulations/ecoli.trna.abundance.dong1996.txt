@@ -1,0 +1,258 @@
+Ala1B
+ UGC
+ GCU, GCA, GCG
+ 46
+ 3250(2223)
+ 5.04
+Ala2
+ GGC
+ GCC
+ 28, 29
+ 617(264)
+ 0.95
+Arg2
+ ACG
+ CGU, CGC, CGA
+ 21, 22
+ 4752(2440)
+ 7.37
+Arg3
+ CCG
+ CGG
+ 37
+ 639(263)
+ 0.99
+Arg4
+ UCU
+ AGA
+ 17
+ 867(2160)
+ 1.34
+Arg5
+ CCU
+ AGG
+ 16
+ 420(269)
+ 0.65
+Asn
+ GUU
+ AAC, AAU
+ 42
+ 1193(2127)
+ 1.85
+Asp1
+ GUC
+ GAC, GAU
+ 12
+ 2396(2346)
+ 3.72
+Cys
+ GCA
+ UGC, UGU
+ 25
+ 1587(2126)
+ 2.46
+Gln1
+ UUG
+ CAA
+ 31
+ 764(266)
+ 1.18
+Gln2
+ CUG
+ CAG
+ 32
+ 881(294)
+ 1.36
+Glu2
+ UUC
+ GAA, GAG
+ 47
+ 4717(2411)
+ 7.32
+Gly2
+ UCC
+ GGA, GGG
+ 24
+ 2137(2320)
+ 3.31
+Gly3
+ GCC
+ GGC, GGU
+ 34, 35
+ 4359(2378)
+ 6.76
+His
+ GUG
+ CAC, CAU
+ 26
+ 639(295)
+ 0.99
+Ile1
+ GAU
+ AUC, AUU
+ 13
+ 3474(294)
+ 5.39
+Leu1
+ CAG
+ CUG
+ 7
+ 4470(2346)
+ 6.94
+Leu2
+ GAG
+ CUC, CUU
+ 5
+ 943(297)
+ 1.46
+Leu3
+ UAG
+ CUA, CUG
+ 23
+ 666(294)
+ 1.03
+Leu4
+ CAA
+ UUG
+ 10, 11
+ 1913(2190)
+ 2.97
+Leu5
+ UAA
+ UUA, UUG
+ 2
+ 1031(2117)
+ 1.60
+Lys
+ UUU
+ AAA, AAG
+ 44
+ 1924(2185)
+ 2.97
+Met f1
+ CAU
+ AUG
+ 38
+ 1211(2191)
+ 1.88
+Met f2
+ CAU
+ AUG
+ 40
+ 715(2107)
+ 1.11
+Met m
+ CAU
+ AUG
+ 41
+ 706(296)
+ 1.09
+Phe
+ GAA
+ UUC, UUU
+ 33
+ 1037(2162)
+ 1.60
+Pro1
+ CGG
+ CCG
+ 43
+ 900(2150)
+ 1.38
+Pro2
+ GGG
+ CCC, CCU
+ 27
+ 720(2125)
+ 1.11
+Pro3
+ UGG
+ CCA, CCU, CCG
+ 45
+ 581(295)
+ 0.90
+Ser1
+ UGA
+ UCA, UCU, UCG
+ 4
+ 1296(294)
+ 2.01
+Ser2
+ CGA
+ UCG
+ 3
+ 344(262)
+ 0.53
+Ser3
+ GCU
+ AGC, AGU
+ 1
+ 1408(2126)
+ 2.18
+Ser5
+ GGA
+ UCC, UCU
+ 9
+ 764(2127)
+ 1.18
+Thr1
+ GGU
+ ACC, ACU
+ 14
+ 104(234)
+ 0.16
+Thr2
+ CGU
+ ACG
+ 18
+ 541(294)
+ 0.84
+Thr3
+ GGU
+ ACC, ACU
+ 19
+ 1095(262)
+ 1.70
+Thr4
+ UGU
+ ACA, ACU, ACG
+ 8
+ 916(264)
+ 1.42
+Trp
+ CCA
+ UGG
+ 39
+ 943(2162)
+ 1.46
+Tyr1
+ GUA
+ UAC, UAU
+ 49
+ 769(295)
+ 1.19
+Tyr2
+ GUA
+ UAC, UAU
+ 48
+ 1261(2126)
+ 1.95
+Val1
+ UAC
+ GUA, GUG, GUU
+ 36
+ 3840(2218)
+ 5.96
+Val2A
+ GAC
+ GUC, GUU
+ 30
+ 630(298)
+ 0.97
+Val2B
+ GAC
+ GUC, GUU
+ 20
+ 635(295)
+ 0.98
