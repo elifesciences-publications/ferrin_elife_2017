@@ -1,3 +1,6 @@
+### This code is associated with the paper from Ferrin et al., "Kinetic modeling predicts a stimulatory role for ribosome collisions at elongation stall sites in bacteria". eLife, 2017. http://dx.doi.org/10.7554/eLife.23629
+
+
 # Code for Ferrin elife 2017 paper
 
 This repository includes raw data and code for running simulations, analyzing data, and reproducing figures in the paper.
